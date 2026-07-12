@@ -12,3 +12,28 @@ This multi-page Power BI and Python analytics dashboard tracks 10,000 customers 
 
 ## ⚙️ Process
 Leveraged Python to import, clean, and filter raw data, executing outlier detection and removing irrelevant columns. The optimized dataset was then imported into Power BI for comprehensive data modeling, DAX engineering, and multi-page visual dashboard development.
+
+## 📁 Data Source & Project Architecture
+
+### 📊 Dataset Source
+The analysis is built on a dataset tracking 10,000 retail banking customers. 
+* **Source:** [Kaggle Bank Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
+
+---
+
+### 🗺️ File Navigation Guide
+
+* **`data/`**
+  * `Customer-Churn-Records.csv`: The original, unaltered source dataset containing 10,000 customer records.
+* **`notebooks/`**
+  * `BankCustomerChurnDataSetQualityCheck.ipynb`: Jupyter notebook containing the Python script for data sanity checks, missing value handling, outlier detection, and column filtering.
+* **`dashboard/`**
+  * `BankCustomerChurnDataDashboard.pbix`: The complete multi-page Power BI dashboard file containing the data model, DAX measures, and visual layouts.
+
+  ## Dashboard Screenshots
+  <img width="921" height="507" alt="image" src="https://github.com/user-attachments/assets/982be8cd-2a78-43cc-9b26-77e80f55fee5" />
+  <img width="917" height="504" alt="image" src="https://github.com/user-attachments/assets/07d16d7f-7cfc-408d-b99d-63e3e1039dae" />
+  <img width="921" height="505" alt="image" src="https://github.com/user-attachments/assets/7fafaf18-2509-4781-94cd-b77ffbbfec60" />
+
+
+
