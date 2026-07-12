@@ -31,7 +31,7 @@ The analysis is built on a dataset tracking 10,000 retail banking customers.
   * `BankCustomerChurnDataDashboard.pbix`: The complete multi-page Power BI dashboard file containing the data model, DAX measures, and visual layouts.
 
   ## Dashboard Screenshots
-  <img width="921" height="507" alt="image" src="https://github.com/user-attachments/assets/982be8cd-2a78-43cc-9b26-77e80f55fee5" />
+  <img width="910" height="501" alt="image" src="https://github.com/user-attachments/assets/a0fe5ba2-41a4-4fb7-9908-43f22c3fbd0a" />
   <img width="917" height="504" alt="image" src="https://github.com/user-attachments/assets/07d16d7f-7cfc-408d-b99d-63e3e1039dae" />
   <img width="921" height="505" alt="image" src="https://github.com/user-attachments/assets/7fafaf18-2509-4781-94cd-b77ffbbfec60" />
 
